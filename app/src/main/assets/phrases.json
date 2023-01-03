@@ -6,5 +6,25 @@
     {
         "phrase": "Why don't you tag along?",
         "meaning": "Mengapa kamu tidak ikut?"
+    },
+    {
+        "phrase": "You can come over!",
+        "meaning": "Anda bisa datang!"
+    },
+    {
+        "phrase": "I think he's going a little overboard",
+        "meaning": "Aku rasa dia sedikit berlebihan"
+    },
+    {
+        "phrase": "It's actually a steal at that price",
+        "meaning": "Sebenarnya itu sangat murah dengan harga itu"
+    },
+    {
+        "phrase": "Well, 'cause you get what you pay for",
+        "meaning": "Nah, karena anda mendapatkan apa yang anda bayar."
+    },
+    {
+        "phrase": "",
+        "meaning": ""
     }
 ]
